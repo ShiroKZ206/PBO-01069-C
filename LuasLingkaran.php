@@ -29,4 +29,3 @@ class LuasLingkaran {
     echo "cape ah";
   }
 }
->?
